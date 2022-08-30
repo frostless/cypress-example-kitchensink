@@ -21,4 +21,4 @@ steps:
 
 - script: |
     npm run local:run
-  displayName: 'run server and cypress'
+  displayName: 'start server and cypress'
